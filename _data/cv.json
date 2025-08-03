@@ -2,9 +2,9 @@
   "basics": {
     "name": "Armand Ras Dotsey IV",
     "email": "ardotseyiv@gmail.com",
-    "phone": "Available by request",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "phone": "Available on request",
+    "website": "https://ardotseyiv.github.io",
+    "summary": "Computer Science student at Penn State's Schreyer Honors College with a strong knowledge of programming principles and practical applications across various languages. Familiar with both Windows- and Linux-based development using Git. Actively seeking an internship to apply and expand technical skills in a real-world development environment.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,10 +25,36 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Math Learning Assistant",
+      "startDate": "January 2024",
+      "endDate": "Present",
+      "company": "Penn State Math Department",
+      "summary": "",
+      "highlights": ["Enhanced student comprehension during class time by answering questions and guiding students through problem sets","Hosted in-person help sessions twice a week for students struggling with class content by guiding them through practice problem sets provided by the designated professor","Worked with a team of fellow Learning Assistants to better address all students during class time and practice sessions"]
+    },
+    {
+      "position": "Canvassing Team Lead",
+      "startDate": "May 2024",
+      "endDate": "June 2024",
+      "company": "The Outreach Team",
+      "summary": "",
+      "highlights": ["Encouraged and helped members of the community to create/update voter registrations before the 2024 general election","Led a team of canvassers in the field each day, acting as a point of contact and a medium between canvassers and directors","Trained new hires in the field to confidently interact with the community and become successful canvassers"]
+    },
+    {
+      "position": "Line Cook",
+      "startDate": "June 2021",
+      "endDate": "February 2023",
+      "company": "Red Robin",
+      "summary": "",
+      "highlights": ["Operated and maintained both gas and electric-powered machinery to cook a variety of dishes in a fast-paced environment","Collaborated with team members to ensure the efficient completion of kitchen and service tasks"]
+    }
+  ],
   "education": [
     {
       "institution": "Penn State University",
+      "subCollege": "Schreyer Honors College",
       "area": "B.S. in Computer Science",
       "studyType": "",
       "startDate": "2023",
