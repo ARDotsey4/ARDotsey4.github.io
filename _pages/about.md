@@ -29,5 +29,5 @@ Text [link](link.com)
 
 Text
 
-picture insert:
+picture insert:<br>
 ![picture insert](/images/500x300.png)

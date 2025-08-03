@@ -4,7 +4,7 @@ title: "Contact Me"
 permalink: /contact/
 author_profile: false
 redirect_from:
-  - /resume-json
+  - /contact-me
 ---
 
 {% include base_path %}
