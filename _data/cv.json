@@ -1,62 +1,65 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Armand Ras Dotsey IV",
+    "email": "ardotseyiv@gmail.com",
+    "phone": "Available on request",
+    "website": "https://ardotseyiv.github.io",
+    "summary": "Computer Science student at Penn State's Schreyer Honors College with a strong knowledge of programming principles and practical applications across various languages. Familiar with both Windows- and Linux-based development using Git. Actively seeking an internship to apply and expand technical skills in a real-world development environment.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Mechanicsburg",
       "countryCode": "US",
-      "region": ""
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ARDotsey4",
+        "url": "https://github.com/ardotsey4"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ARDotseyIV",
+        "url": "https://linkedin.com/in/ardotseyiv"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Math Learning Assistant",
+      "startDate": "January 2024",
+      "endDate": "Present",
+      "company": "Penn State Math Department",
+      "summary": "",
+      "highlights": ["Enhanced student comprehension during class time by answering questions and guiding students through problem sets","Hosted in-person help sessions twice a week for students struggling with class content by guiding them through practice problem sets provided by the designated professor","Worked with a team of fellow Learning Assistants to better address all students during class time and practice sessions"]
+    },
+    {
+      "position": "Canvassing Team Lead",
+      "startDate": "May 2024",
+      "endDate": "June 2024",
+      "company": "The Outreach Team",
+      "summary": "",
+      "highlights": ["Encouraged and helped members of the community to create/update voter registrations before the 2024 general election","Led a team of canvassers in the field each day, acting as a point of contact and a medium between canvassers and directors","Trained new hires in the field to confidently interact with the community and become successful canvassers"]
+    },
+    {
+      "position": "Line Cook",
+      "startDate": "June 2021",
+      "endDate": "February 2023",
+      "company": "Red Robin",
+      "summary": "",
+      "highlights": ["Operated and maintained both gas and electric-powered machinery to cook a variety of dishes in a fast-paced environment","Collaborated with team members to ensure the efficient completion of kitchen and service tasks"]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Penn State University",
+      "subCollege": "Schreyer Honors College",
+      "area": "B.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2023",
+      "endDate": "",
+      "gpa": 3.96,
       "courses": []
     }
   ],
@@ -64,82 +67,9 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
       "name": "Portfolio item number 1",
