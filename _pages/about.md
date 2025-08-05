@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Text
+Hello, my name is Armand Dotsey. I am a third-year student at Penn State and a member of the Schreyer Honors College. I am pursuing a B.S. in Computer Science, as well as minors in Cybersecurity, Computer Enginnering, and Mathematics. In addition to my stuides, I am also searching for an internship in my field for the summer of 2026 and beyond. Please explore my website and feel free to contact me through email or on LinkedIn if you have any questions! 
 
 Heading
 ======

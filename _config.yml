@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Armand Dotsey / <abbr title='Computer Science'>CS</abbr> Student"
+title                    : "Armand Dotsey / CS Student"
 title_separator          : "-"
 name                     : &name "Armand Dotsey"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Armand Dotsey"
   pronouns         : # example: "she/her"  
-  bio              : "Majoring in Computer Science<br>Minoring in Computer Engineering, Cybersecurity, and Mathematics<br>Schreyer Honors College Scholar"
+  bio              : "Majoring in Computer Science |<br>Minoring in Computer Engineering, Cybersecurity, and Mathematics |<br>Schreyer Honors College Scholar"
   location         : "Mechanicsburg, PA"
   employer         : "Penn State University"
   uri              : # URL
