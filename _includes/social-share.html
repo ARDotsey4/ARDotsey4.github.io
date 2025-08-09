@@ -1,5 +1,15 @@
 {% include base_path %}
 
+<style>
+  .page__share {
+    margin-top: 0em;
+  }
+
+  .page__share-title {
+    margin-top: 1em;
+  }
+</style>
+
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>

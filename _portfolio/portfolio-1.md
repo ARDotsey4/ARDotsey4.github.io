@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "mdadm Linear Device"
+excerpt: "This is a linear JBOD storage implementation using the <code class='language-plaintext highlighter-rouge'>mdadm</code> utility in Linux. This is the culmination of my work in CMPSC311 (Introduction to Systems Programming) at PSU during the Spring 2025 semester. The project was written in the C language on an Ubuntu Virtual Machine."
 collection: portfolio
+link: https://github.com/ARDotsey4/CMPSC311-Project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a linear JBOD storage implementation using the <code class='language-plaintext highlighter-rouge'>mdadm</code> utility in Linux. This is the culmination of my work in CMPSC311 (Introduction to Systems Programming) at PSU during the Spring 2025 semester. The project was written in the C language on an Ubuntu Virtual Machine.
+
+Access this project's repository on GitHub through the direct link below:
