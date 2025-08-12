@@ -6,14 +6,13 @@
   @include container;
   @include clearfix;
   margin-top: 3em;
-  margin-left: 20%;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @media screen and (max-width: $sidebar-screen-min-width) or (orientation: portrait) {
-    margin-left: auto;
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    margin-left: 20%;
   }
 
   @include breakpoint($x-large) {

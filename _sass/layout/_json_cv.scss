@@ -2,10 +2,18 @@
    JSON CV
    ========================================================================== */
 
+/* Mobile Edits */
+@media screen and (min-width: $sidebar-screen-min-width) {
+  .archive {
+    width: 70%;
+  }
+}
+
 /* CV Template Styles */
 .cv-container {
   max-width: 1000px;
   margin: 0 auto;
+  margin-top: -1em;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: var(--global-text-color);
   line-height: 1.6;
@@ -20,7 +28,7 @@
 
 .cv-header h1 {
   margin-bottom: 0.5rem;
-  color: var(--global-text-color );
+  color: #2a7ae2;
 }
 
 .cv-contact-info {
