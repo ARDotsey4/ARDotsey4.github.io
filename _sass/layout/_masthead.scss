@@ -27,9 +27,14 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    
     margin-left: 20%;
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
+
+    @media screen and (max-width: $sidebar-screen-min-width) or (orientation: portrait) {
+      margin-left: auto;
+    }
 
     @include breakpoint($x-large) {
       max-width: $x-large;
