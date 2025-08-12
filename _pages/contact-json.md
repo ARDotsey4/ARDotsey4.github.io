@@ -7,17 +7,12 @@ redirect_from:
   - /contact-me
 ---
 
-{% include base_path %}
-
-<link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 <style>
   .archive {
     width: 80%;
     margin: 0 auto;
     float: none;
-    padding-right: 0;
+    padding-right: 5%;
     padding-left: 6.137288136%;
   }
   
@@ -40,6 +35,8 @@ redirect_from:
     margin-bottom:0.75em;
   }
 </style>
+
+{% include base_path %}
 
 {% include contact-template.html %}
 
