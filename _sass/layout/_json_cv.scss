@@ -69,11 +69,11 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  color: var(--global-text-color);
+  color: #2a7ae2;
 }
 
 .cv-section h2 i {
-  color: #2a7ae2;
+  color: var(--global-text-color);
 }
 
 /* Item Styles */

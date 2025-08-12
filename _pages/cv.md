@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv-null
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume-null
 ---
+
+--------------- This file is excluded in comfig.yml ---------------
 
 {% include base_path %}
 
