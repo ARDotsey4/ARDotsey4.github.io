@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Armand Dotsey. I am a third-year student at Penn State and a member of the Schreyer Honors College. I am pursuing a B.S. in Computer Science, as well as minors in Cybersecurity, Computer Enginnering, and Mathematics. I am currently a Learning Assistant for Penn State's Math Department, where I work side-by-side with professors to provide students with the resources and support they need to excell in their math courses.
+Hello, my name is Armand Dotsey. I am a third-year student at Penn State and a member of the Schreyer Honors College. I am pursuing a B.S. in Computer Science, as well as minors in Cybersecurity, Computer Engineering, and Mathematics. I am currently a Learning Assistant for Penn State's Math Department, where I work side-by-side with professors to provide students with the resources and support they need to excel in their math courses.
 
-In addition to my work and stuides, I am searching for an internship in my field for the summer of 2026 and beyond. Please explore my website and feel free to contact me through email or on LinkedIn if you have any questions! 
+In addition to my work and studies, I am searching for an internship in my field for the summer of 2026 and beyond. Please explore my website and feel free to contact me through email or on LinkedIn if you have any questions! 
 
 Research
 ------
